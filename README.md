@@ -21,3 +21,9 @@ reach_end: reaching the end of an array positionally
 swapbits.py: swapping the position of two bits in a string
 
 transposematrix.py: transposing matrices in numpy
+
+lcaa.py : compute the lowest common ancestor of two nodes in a tree 
+
+gridsearch.py: search a 2d array for a specific number: runs in O(m + n) time
+
+minmax.py: compute the minimum and maximum of an array using 1.5n - 2 comparisons instead of 2n - 2 comparisons (which would be required to compute the min and max separately).
